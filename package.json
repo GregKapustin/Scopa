@@ -7,7 +7,8 @@
     "develop": "strapi develop",
     "start": "strapi start",
     "build": "strapi build",
-    "strapi": "strapi"
+    "strapi": "strapi",
+    "postversion": "ssh 845994@git.sd6.gpaas.net deploy les11.cre8ive.fr.git"
   },
   "devDependencies": {},
   "dependencies": {
